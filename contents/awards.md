@@ -1,7 +1,7 @@
-- Ocean University of China Weiss International Scholarship, 2025.
+- 中国海洋大学维斯国际奖学金, 2025.
 
-- Outstanding Graduate of Zhejiang Province, 2024.
+- 浙江省优秀毕业生, 2024.
 
-- Second Prize in the National Final of China Postgraduate "Double Carbon" Innovation and Creativity Competition, 2023.
+- 中国研究生“双碳”创新创意大赛国赛二等奖, 2023.
 
-- National Scholarship, 2023.
+- 研究生国家奖学金, 2023.

@@ -1,17 +1,17 @@
 [![Fengxuan](https://img.shields.io/badge/Fengxuan-github-blue?logo=github)](https://github.com/Fengxuan)
 
-I'm currently pursuing a Doctor of Business Administration (DBA) at the Institute of Marine Development, Ocean University of China, China.
+中国海洋大学 海洋发展研究院 工商管理博士研究生
 
-#### Email  
+#### 电子邮箱  
 <code>felix06acc@163.com</code>  
 <code>fengxuanzhangms@163.com</code>
 
-#### Education  
-**Ocean University of China**, Doctor of Business Administration (DBA) (in progress) (2024 – )  
+#### 教育背景  
+**中国海洋大学**, 工商管理 博士研究生 (2024 – )  
 
-**Zhejiang Ocean University**, Master of Agricultural and Forestry Economics and Management (2021 – 2024)  
+**浙江海洋大学**, 农林经济管理 硕士 (2021 – 2024)  
 
-#### Research Interests  
-Supply Chain Management, Game Theory and Its Applications; 
+#### 研究方向
+供应链管理、博弈论及其应用；
 
-Deep-Sea Systems Engineering, Marine Resources and Environmental Management.
+深海系统工程、海洋资源与环境管理。
