@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Fengxuan](https://img.shields.io/badge/Fengxuan-github-blue?logo=github)](https://github.com/Fengxuan)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor of Business Administration (DBA) at the Institute of Marine Development, Ocean University of China, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>felix06acc@163.com</code>  
+<code>fengxuanzhangms@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Ocean University of China**, Doctor of Business Administration (DBA) (in progress) (2024 – )  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Zhejiang Ocean University**, Master of Agricultural and Forestry Economics and Management (2021 – 2024)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Supply Chain Management, Game Theory and Its Applications; 
+
+Deep-Sea Systems Engineering, Marine Resources and Environmental Management.
