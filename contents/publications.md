@@ -1,11 +1,11 @@
 ### **通讯作者** 
 [1]	Equilibrium strategy for deep-sea mineral investments amid protester actions: Balancing terrestrial benefits and marine preservation[J]. **Journal of Environmental Management**, 2025, 391: 126374.
 
-[2]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521.
+[2] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869.
 
-[3]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365.
+[3]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521.
 
-[4] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869.
+[4]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365.
 
 ---
 
