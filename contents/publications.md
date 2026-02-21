@@ -29,3 +29,8 @@ Incentive effects of marine carbon sink on carbon emission disclosure: An analys
 
 
 [5]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832.
+
+---
+
+### **其他主要合作论文** 
+[1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6).
