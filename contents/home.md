@@ -1,15 +1,11 @@
 [![Fengxuan](https://img.shields.io/badge/Fengxuan-github-blue?logo=github)](https://github.com/Fengxuan)
 
-中国海洋大学 海洋发展研究院 工商管理博士研究生
+中国海洋大学 海洋发展研究院 2024级 工商管理博士研究生
 
 
 #### 电子邮箱  
 <code>felix06acc@163.com</code>  
 <code>fengxuanzhangms@163.com</code>
-
-
-#### 教育背景  
-**中国海洋大学**, 工商管理 博士研究生 (2024 – )  
 
 
 #### 研究方向
