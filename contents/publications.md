@@ -42,4 +42,4 @@ Incentive effects of marine carbon sink on carbon emission disclosure: An analys
 
 
 
-***注：所有期刊相关信息按照论文发表当年情况进行标注。**
+***注：所有期刊相关信息按照论文发表或审稿当年情况进行标注。**
