@@ -43,7 +43,7 @@ Incentive effects of marine carbon sink on carbon emission disclosure: An analys
 ---
 
 ### **其他主要合作论文** 
-[1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6). (AJG 2*, JCR Q1, 中科院 Q2)
+[1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6). (AJG 2*, JCR Q1, 中科院 Q2 TOP)
 
 
 
