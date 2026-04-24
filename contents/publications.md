@@ -23,9 +23,9 @@ How can incentive mechanisms balance clean energy production and marine environm
 Differential game analysis of terrestrial–Marine carbon sink development under stochastic disturbance: Effects comparison of multiple power structures[J/OL]. **Journal of Systems Science and Mathematical Sciences**, 1-22 [2026-03-03].
 
 
-[2]	博弈视角下深海矿产利益相关者的价格竞争与产研合作: 以深海多金属结核为例[J/OL]. **系统管理学报**, 1-19 [2025-05-27]. (国家自然科学金委员会A类期刊, CSSCI来源期刊, CSCD, 北大核心, AMI核心)
+[2]	博弈视角下深海矿产利益相关者的价格竞争与产研合作: 以深海多金属结核为例[J]. **系统管理学报**, 2026, 35(02): 394-406. (国家自然科学金委员会A类期刊, CSSCI来源期刊, CSCD, 北大核心, AMI核心)
 
-Price competition and industry-research collaboration among  stakeholders in deep sea mineral exploitation: A game-theoretic perspective, illustrated by polymetallic nodules[J/OL]. **Journal of Systems & Management**, 1-19 [2025-05-27].
+Price competition and industry-research collaboration among  stakeholders in deep sea mineral exploitation: A game-theoretic perspective, illustrated by polymetallic nodules[J]. **Journal of Systems & Management**, 2026, 35(02): 394-406.
 
 
 [3]	社会组织推动下海洋渔业可持续发展的多主体协同策略研究[J]. **中国海洋大学学报（社会科学版）**, 2024(6): 59-70. **百年校庆专刊** (AMI核心)
@@ -45,6 +45,10 @@ Incentive effects of marine carbon sink on carbon emission disclosure: An analys
 ### **其他主要合作论文** 
 [1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6). (AJG 2*, JCR Q1, 中科院 Q2)
 
+
+[2] 兼业行为对渔民退捕意愿的影响及机制: 基于浙江省沿海822份渔户的调查[J]. **资源科学**, 2026, 48(3): 694-705. (排名: 3/4). (CSSCI来源期刊, CSCD, 北大核心, AMI核心)
+
+Impact of pluriactivity on fishermen’s willingness to exit fishing and its mechanisms: Based on a survey of 822 coastal fishing households in Zhejiang Province[J]. **Resources Science**, 2026, 48(3): 694-705.
 
 
 
