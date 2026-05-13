@@ -1,17 +1,20 @@
 ### **通讯作者** 
 [1]	Equilibrium strategy for deep-sea mineral investments amid protester actions: Balancing terrestrial benefits and marine preservation[J]. **Journal of Environmental Management**, 2025, 391: 126374. (AJG 3*, JCR Q1, 中科院 Q2 TOP)
 
+[2] 海洋生态灾害对旅游视觉影响的空间模型设计与案例分析——基于青岛市绿潮爆发[J/OL]. **生态学报**, 1-15 [2026-05-13]. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
 
-[2]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521. (JCR Q1, 中科院 Q1 TOP)
+Spatial model design and case analysis of the visual impacts of marine ecological disasters on tourism: A study based on the green tide outbreak in Qingdao City[J/OL]. **Acta Ecologica Sinica**, 1-15 [2026-05-13].
 
-
-[3]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365. (AJG 2*, JCR Q1, 中科院 Q2 TOP)
-
-
-[4] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869. (JCR Q1, 中科院 Q2)
+[3]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521. (JCR Q1, 中科院 Q1 TOP)
 
 
-[5] 奖惩机制何以平衡清洁能源生产与海洋环境扰动? 动态均衡下的深海矿产开发策略[J]. **海洋环境科学**, 2025, 44(06): 828-838. (CSCD, 北大核心)
+[4]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365. (AJG 2*, JCR Q1, 中科院 Q2 TOP)
+
+
+[5] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869. (JCR Q1, 中科院 Q2)
+
+
+[6] 奖惩机制何以平衡清洁能源生产与海洋环境扰动? 动态均衡下的深海矿产开发策略[J]. **海洋环境科学**, 2025, 44(06): 828-838. (CSCD, 北大核心)
 
 How can incentive mechanisms balance clean energy production and marine environmental disturbance? Deep-sea mineral development strategies under dynamic equilibrium[J]. **Marine Environmental Science**, 2025, 44(06): 828-838.
 
