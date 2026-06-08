@@ -37,13 +37,16 @@ Price competition and industry-research collaboration among  stakeholders in dee
 
 The researchon multi-agent collaborative strategies for sustainable development of marine fisheries drivenby social organizations[J]. **Journal of Ocean University of China (Social Sciences)**, 2024(6): 59-70.
 
+[5] 以联合科技创新开拓深远海养殖发展空间[N]. **中国自然资源报**, 2026-06-05(003).
 
-[5]	海洋碳汇对碳排放信息披露的激励效应——博弈视角下考虑购买价格的分析[J]. **中国环境科学**, 2023, 43(9): 4975-4987. (EI工程, 浙大一级期刊, CSCD, 北大核心, AMI核心)
+Expanding Development Horizons for Deeper-offshore Mariculture via Collaborative Scientific and Technological Innovation[N]. **China Natural Resources News**, 2026-06-05(003).
+
+[6]	海洋碳汇对碳排放信息披露的激励效应——博弈视角下考虑购买价格的分析[J]. **中国环境科学**, 2023, 43(9): 4975-4987. (EI工程, 浙大一级期刊, CSCD, 北大核心, AMI核心)
 
 Incentive effects of marine carbon sink on carbon emission disclosure: An analysis considering purchase price from a game-theoretic perspective [J]. **China Environmental Science**, 2023, 43(9): 4975-4987.
 
 
-[6]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2)
+[7]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2)
 
 ---
 
