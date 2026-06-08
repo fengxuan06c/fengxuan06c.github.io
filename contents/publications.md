@@ -39,7 +39,7 @@ The researchon multi-agent collaborative strategies for sustainable development 
 
 [5] 以联合科技创新开拓深远海养殖发展空间[N]. **中国自然资源报**, 2026-06-05(003).
 
-Expanding Development Horizons for Deeper-offshore Mariculture via Collaborative Scientific and Technological Innovation[N]. **China Natural Resources News**, 2026-06-05(003).
+Expanding development horizons for deeper-offshore mariculture via collaborative scientific and technological innovation[N]. **China Natural Resources News**, 2026-06-05(003).
 
 [6]	海洋碳汇对碳排放信息披露的激励效应——博弈视角下考虑购买价格的分析[J]. **中国环境科学**, 2023, 43(9): 4975-4987. (EI工程, 浙大一级期刊, CSCD, 北大核心, AMI核心)
 
