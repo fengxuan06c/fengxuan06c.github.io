@@ -1,9 +1,9 @@
 ### **通讯作者** 
 [1]	Equilibrium strategy for deep-sea mineral investments amid protester actions: Balancing terrestrial benefits and marine preservation[J]. **Journal of Environmental Management**, 2025, 391: 126374. (AJG 3*, JCR Q1, 中科院 Q2 TOP)
 
-[2] 海洋生态灾害对旅游视觉影响的空间模型设计与案例分析——基于青岛市绿潮爆发[J/OL]. **生态学报**, 1-15 [2026-05-13]. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
+[2] 海洋生态灾害对旅游视觉影响的空间模型设计与案例分析——基于青岛市绿潮爆发[J]. **生态学报**, 2026, 46(14): 7331-7345. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
 
-Spatial model design and case analysis of the visual impacts of marine ecological disasters on tourism: A study based on the green tide outbreak in Qingdao City[J/OL]. **Acta Ecologica Sinica**, 1-15 [2026-05-13].
+Spatial model design and case analysis of the visual impacts of marine ecological disasters on tourism: A study based on the green tide outbreak in Qingdao City[J]. **Acta Ecologica Sinica**, 2026, 46(14): 7331-7345.
 
 [3]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521. (JCR Q1, 中科院 Q1 TOP)
 
