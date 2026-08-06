@@ -10,7 +10,7 @@ Differential game analysis of terrestrial–Marine carbon sink development under
 
 Price competition and industry-research collaboration among  stakeholders in deep sea mineral exploitation: A game-theoretic perspective, illustrated by polymetallic nodules[J]. **Journal of Systems & Management**, 2026, 35(02): 394-406.
 
-[4] Empowering deeper-offshore mariculture: Exploring government guidance and research institution support strategies under stochastic disturbances[J]. **Aquaculture**, 2026, 623: 744113. (JCR Q1, 中科院 Q2 TOP)
+[4] Empowering deeper-offshore mariculture: Exploring government guidance and research institution support strategies under stochastic disturbances[J]. **Aquaculture**, 2026, 623: 744113. (JCR Q1, 中科院 Q2 TOP, IF=4.4)
 
 
 [5]	社会组织推动下海洋渔业可持续发展的多主体协同策略研究[J]. **中国海洋大学学报（社会科学版）**, 2024(6): 59-70. **百年校庆专刊** (AMI核心)
@@ -26,24 +26,24 @@ Expanding development horizons for deeper-offshore mariculture via collaborative
 Incentive effects of marine carbon sink on carbon emission disclosure: An analysis considering purchase price from a game-theoretic perspective [J]. **China Environmental Science**, 2023, 43(9): 4975-4987.
 
 
-[8]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2)
+[8]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2, IF=4.6)
 
 ---
 
 ### **通讯作者** 
-[1]	Equilibrium strategy for deep-sea mineral investments amid protester actions: Balancing terrestrial benefits and marine preservation[J]. **Journal of Environmental Management**, 2025, 391: 126374. (AJG 3*, JCR Q1, 中科院 Q2 TOP)
+[1]	Equilibrium strategy for deep-sea mineral investments amid protester actions: Balancing terrestrial benefits and marine preservation[J]. **Journal of Environmental Management**, 2025, 391: 126374. (AJG 3*, JCR Q1, 中科院 Q2 TOP, IF=8.4)
 
 [2] 海洋生态灾害对旅游视觉影响的空间模型设计与案例分析——基于青岛市绿潮爆发[J]. **生态学报**, 2026, 46(14): 7331-7345. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
 
 Spatial model design and case analysis of the visual impacts of marine ecological disasters on tourism: A study based on the green tide outbreak in Qingdao City[J]. **Acta Ecologica Sinica**, 2026, 46(14): 7331-7345.
 
-[3]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521. (JCR Q1, 中科院 Q1 TOP)
+[3]	How to facilitate efficient blue carbon trading? A simulation study using the game theory to find the optimal strategy for each participant[J]. **Energy**, 2023, 276: 127521. (JCR Q1, 中科院 Q1 TOP, IF=8.9)
 
 
-[4]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365. (AJG 2*, JCR Q1, 中科院 Q2 TOP)
+[4]	A game study on the implementation of marine carbon sink fisheries in the context of carbon neutrality − analysis of the tripartite behavior of fishery practitioners, research institutions, and the government[J]. **Marine Policy**, 2023, 147: 105365. (AJG 2*, JCR Q1, 中科院 Q2 TOP, IF=3.8)
 
 
-[5] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869. (JCR Q1, 中科院 Q2)
+[5] How to mitigate high risks to secure more high-quality protein? Joint technological innovation strategies for offshore mariculture considering different power structures[J]. **Aquaculture Reports**, 2025, 43: 102869. (JCR Q1, 中科院 Q2, IF=3.7)
 
 
 [6] 奖惩机制何以平衡清洁能源生产与海洋环境扰动? 动态均衡下的深海矿产开发策略[J]. **海洋环境科学**, 2025, 44(06): 828-838. (CSCD, 北大核心)
@@ -53,7 +53,7 @@ How can incentive mechanisms balance clean energy production and marine environm
 ---
 
 ### **其他主要合作论文** 
-[1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6). (AJG 2*, JCR Q1, 中科院 Q2)
+[1] Flexible interpretation and strategic interaction of the “not undermine” clause: A case study of the BBNJ agreement[J]. **Marine Policy**, 2026, 188: 107090 (排名: 2/6). (AJG 2*, JCR Q1, 中科院 Q2, IF=3.9)
 
 
 [2] 兼业行为对渔民退捕意愿的影响及机制: 基于浙江省沿海822份渔户的调查[J]. **资源科学**, 2026, 48(3): 694-705. (排名: 3/4). (CSSCI来源期刊, CSCD, 北大核心, AMI核心)
