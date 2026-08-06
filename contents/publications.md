@@ -1,30 +1,32 @@
 ### **第一作者** 
-[1] 随机干扰下陆地与海洋碳汇开发的微分对策研究: 多权力结构效应对比[J/OL]. **系统科学与数学**, 1-22 [2026-03-03]. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
+[1] Self-developed innovation Vs. government-funded support: Competitive strategies in blue carbon trading under different industry–research collaboration structures[J]. **Economic Analysis and Policy**, 2026, 93: 598-617.  (JCR Q1, 新锐 Q1 Top, IF=9)
+
+[2] 随机干扰下陆地与海洋碳汇开发的微分对策研究: 多权力结构效应对比[J/OL]. **系统科学与数学**, 1-22 [2026-03-03]. (卓越期刊, 浙大一级期刊, CSCD, 北大核心)
 
 Differential game analysis of terrestrial–Marine carbon sink development under stochastic disturbance: Effects comparison of multiple power structures[J/OL]. **Journal of Systems Science and Mathematical Sciences**, 1-22 [2026-03-03].
 
 
-[2]	博弈视角下深海矿产利益相关者的价格竞争与产研合作: 以深海多金属结核为例[J]. **系统管理学报**, 2026, 35(02): 394-406. (国家自然科学金委员会A类期刊, CSSCI来源期刊, CSCD, 北大核心, AMI核心)
+[3]	博弈视角下深海矿产利益相关者的价格竞争与产研合作: 以深海多金属结核为例[J]. **系统管理学报**, 2026, 35(02): 394-406. (国家自然科学金委员会A类期刊, CSSCI来源期刊, CSCD, 北大核心, AMI核心)
 
 Price competition and industry-research collaboration among  stakeholders in deep sea mineral exploitation: A game-theoretic perspective, illustrated by polymetallic nodules[J]. **Journal of Systems & Management**, 2026, 35(02): 394-406.
 
-[3] Empowering deeper-offshore mariculture: Exploring government guidance and research institution support strategies under stochastic disturbances[J]. **Aquaculture**, 2026, 623: 744113. (JCR Q1, 中科院 Q2 TOP)
+[4] Empowering deeper-offshore mariculture: Exploring government guidance and research institution support strategies under stochastic disturbances[J]. **Aquaculture**, 2026, 623: 744113. (JCR Q1, 中科院 Q2 TOP)
 
 
-[4]	社会组织推动下海洋渔业可持续发展的多主体协同策略研究[J]. **中国海洋大学学报（社会科学版）**, 2024(6): 59-70. **百年校庆专刊** (AMI核心)
+[5]	社会组织推动下海洋渔业可持续发展的多主体协同策略研究[J]. **中国海洋大学学报（社会科学版）**, 2024(6): 59-70. **百年校庆专刊** (AMI核心)
 
 The researchon multi-agent collaborative strategies for sustainable development of marine fisheries drivenby social organizations[J]. **Journal of Ocean University of China (Social Sciences)**, 2024(6): 59-70.
 
-[5] 以联合科技创新开拓深远海养殖发展空间[N]. **中国自然资源报**, 2026-06-05(003).
+[6] 以联合科技创新开拓深远海养殖发展空间[N]. **中国自然资源报**, 2026-06-05(003).
 
 Expanding development horizons for deeper-offshore mariculture via collaborative scientific and technological innovation[N]. **China Natural Resources News**, 2026-06-05(003).
 
-[6]	海洋碳汇对碳排放信息披露的激励效应——博弈视角下考虑购买价格的分析[J]. **中国环境科学**, 2023, 43(9): 4975-4987. (EI工程, 浙大一级期刊, CSCD, 北大核心, AMI核心)
+[7]	海洋碳汇对碳排放信息披露的激励效应——博弈视角下考虑购买价格的分析[J]. **中国环境科学**, 2023, 43(9): 4975-4987. (EI工程, 浙大一级期刊, CSCD, 北大核心, AMI核心)
 
 Incentive effects of marine carbon sink on carbon emission disclosure: An analysis considering purchase price from a game-theoretic perspective [J]. **China Environmental Science**, 2023, 43(9): 4975-4987.
 
 
-[7]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2)
+[8]	Research on the game of fishermen’s cooperative behavior in developing marine carbon sink fisheries from a complex network perspective[J]. **Ocean & Coastal Management**, 2023, 244: 106832. (JCR Q1, 中科院 Q2)
 
 ---
 
